@@ -1,0 +1,14 @@
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/bin/Debug/net8.0/Rock Paper Scissors Game
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/bin/Debug/net8.0/Rock Paper Scissors Game.deps.json
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/bin/Debug/net8.0/Rock Paper Scissors Game.runtimeconfig.json
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/bin/Debug/net8.0/Rock Paper Scissors Game.dll
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/bin/Debug/net8.0/Rock Paper Scissors Game.pdb
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.AssemblyInfoInputs.cache
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.AssemblyInfo.cs
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.dll
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/refint/Rock Paper Scissors Game.dll
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.pdb
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/Rock Paper Scissors Game.genruntimeconfig.cache
+/Users/levannatroshvili/RiderProjects/Rock Paper Scissors/Rock Paper Scissors Game/obj/Debug/net8.0/ref/Rock Paper Scissors Game.dll
